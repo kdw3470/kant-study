@@ -27,3 +27,12 @@ git push origin main
  git log --oneline
 
  ```
+
+ ### 브랜치 생성 및 스위치
+
+ ```sh
+ git branch 브랜치명
+ git checkout 브랜치명
+
+ git checkout -b 브랜치명
+ ```
